@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2d70fb0`](https://github.com/stdlib-js/stdlib/commit/2d70fb0472427a0870fd4ce7bb8b30993cf2f939) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`e31dcb3`](https://github.com/stdlib-js/stdlib/commit/e31dcb351afa33d2a0151ec2c07194c79a27a17a) - **feat:** add `stats/strided/dsnanmeanpn` _(by Aayush Khanna)_
 
 </details>
